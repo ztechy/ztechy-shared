@@ -1,6 +1,6 @@
 {
     "name": "@ztechy/validations",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Shared auth utilities for all projects",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
