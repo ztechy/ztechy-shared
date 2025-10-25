@@ -1,6 +1,6 @@
 {
-    "name": "@ztechy/auth",
-    "version": "1.0.3",
+    "name": "@ztechy/validations",
+    "version": "1.0.0",
     "description": "Shared auth utilities for all projects",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
@@ -19,5 +19,8 @@
     },
     "devDependencies": {
         "typescript": "^5.9.3"
+    },
+    "dependencies": {
+        "react-phone-number-input": "^3.4.13"
     }
 }
